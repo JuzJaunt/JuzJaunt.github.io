@@ -1,8 +1,4 @@
-title: Juzjaunt
-description: juzjaunt.com
+title: JuzJaunt
+description: JuzJaunt
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-mentions
