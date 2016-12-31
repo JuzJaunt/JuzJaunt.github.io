@@ -1,8 +1,6 @@
 ---
+layout: default
 ---
-
-# JuzJaunt
-{:align="center"}
 
 ### Site is Under Construction. Inconvenience Regretted!
 {:align="center"}

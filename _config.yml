@@ -1,3 +1,35 @@
+# Site settings
 title: JuzJaunt
-description: JuzJaunt
+description: 'JuzJaunt is your travel enabler'
+url: 'http://juzjaunt.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'vjn'
+  email: vjn@techie.com
+  twitter_username: _vjn_
+  facebook_username: vjn.me
+  github_username:  vijayan-n
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+
+exclude: ['README.md']
