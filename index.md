@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Site is Under Construction. Inconvenience Regretted!
+### Site is Under Construction Inconvenience Regretted!
 {:align="center"}
 
 
@@ -10,6 +10,6 @@ layout: default
 
 ### Place your order below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0KZwsjNSRv1CFL8rei-JA2zYYe4rISutTM0rxkXs7VQPZDA/viewform?embedded=true" height="95%" width="100%">Loading...</iframe>
+<iframe src="bit.do/JuzJaunt" height=auto width="100%" style="border:none;">Loading...</iframe>
 
 JuzJaunt - a vjn & krishna venture
