@@ -10,4 +10,4 @@ layout: default
 
 ### Place your order below:
 
-<iframe src="http://bit.do/JuzJaunt" height="400" width="100%">Loading...</iframe>
+<iframe src="http://bit.do/JuzJaunt" height="400" width="100%" class="well well-">Loading...</iframe>

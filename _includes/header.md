@@ -1,3 +1,4 @@
-<h1 align="center">
-<b>JuzJaunt</b>
-</h1>
+<div class="page-header">
+  <h1 align="center"> JuzJaunt </h1>
+  
+</div>
