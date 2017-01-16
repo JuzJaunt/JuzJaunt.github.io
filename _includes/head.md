@@ -7,6 +7,8 @@
   <meta name="author" content="{{site.author.name}}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
+  <link rel="icon" href="/images/logo.svg" sizes="any" type="image/svg+xml"/>
+  
   <!--     material design -->
   <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.deep_orange-light_green.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">

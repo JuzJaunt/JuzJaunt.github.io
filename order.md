@@ -2,9 +2,7 @@
 layout: default
 ---
 
-#
-
-## Our Service is, however, Always On !!!
+# JuzJaunt
 
 ### Place your order below:
 

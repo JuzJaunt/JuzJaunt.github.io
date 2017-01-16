@@ -36,7 +36,9 @@ layout: cover
             transform: translate(-50%, -50%);
             border-radius: 5px;
             background-color: rgba(0,0,0,0.6);
-            color: #ffffff">
+            color: #ffffff;
+            padding: 5px;
+            font-size:30px">
 JuzJaunt
 </span>
 </a>
