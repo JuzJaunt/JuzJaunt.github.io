@@ -1,12 +1,17 @@
 ---
 layout: cover
+next: /order
 ---
+
+<a href="{{page.next}}">
 <img src="/images/logo.svg" alt="JuzJaunt"
      style="position: absolute;
+            top: 5%;
             left: 50%;
             transform: translate(-50%, 0%);
             height:20%;
             width=20%"/>
+</a>
 
 <div class="container-fluid"
      style="position: absolute;
@@ -28,17 +33,18 @@ layout: cover
   </p>
 </div>
 
-<a href="/order">
+<a href="{{page.next}}">
 <span class="container-fluid"
-     style="position: absolute;
-            top: 80%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            border-radius: 5px;
-            background-color: rgba(0,0,0,0.6);
-            color: #ffffff;
-            padding: 5px;
-            font-size:30px">
-JuzJaunt
+      style="position: fixed;
+             top: 80%;
+             left: 50%;
+             transform: translate(-50%, -50%);
+             border: 5px solid #000000;
+             background-color: rgba(255,255,255,0.4);
+             color: #000000;
+             padding: 15px;
+             text-align: center;
+             font-size:44px">
+JuzJaunt »
 </span>
 </a>
