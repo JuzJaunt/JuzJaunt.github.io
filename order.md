@@ -2,6 +2,8 @@
 layout: default
 ---
 
-### Place your order below:
+Place your order below:
 
-<iframe src="http://bit.do/JuzJaunt" height="400" width="100%">Loading...</iframe>
+<div class="container">
+<iframe src="http://bit.do/JuzJaunt" height="800" width="100%">Loading...</iframe>
+</div>

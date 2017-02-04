@@ -33,4 +33,4 @@ kramdown:
   input: GFM
   auto_ids: false
 
-exclude: ['README.md']
+exclude: ['README.md', 'CNAME']

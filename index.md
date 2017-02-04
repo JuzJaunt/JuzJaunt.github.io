@@ -1,6 +1,7 @@
 ---
 layout: cover
 next: /order
+bgurl: https://goo.gl/saKkQG
 ---
 
 <a href="{{page.next}}">
